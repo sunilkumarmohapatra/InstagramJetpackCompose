@@ -8,4 +8,4 @@ This code is used to create using JetPackCompose . Please clone and try this.
 
 ### Video
 
-![InstagramJetPackCompose](../main/app/src/main/assets/pathanimation.gif)
+![InstagramJetPackCompose](../main/app/src/main/assets/InstagramDemo.gif)
