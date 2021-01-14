@@ -4,7 +4,7 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
 
 ## Getting Started
 
-This code is used to create using JetPackCompose . Please clone and try this.
+Instagram is the most used social media in the world.So  tried the Instagarm UI using new Android Jetpack Compose. Please clone and try this.
 
 ### Video
 
